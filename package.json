@@ -1,0 +1,11 @@
+{
+  "name": "myconfig",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/macos/.global-setup.sh",
+  "scripts": {
+    "configure": "sh src/macos/.global-setup.sh"
+  },
+  "author": "",
+  "license": "ISC"
+}
