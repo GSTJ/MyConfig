@@ -34,10 +34,14 @@ brew install microsoft-office
 brew install notion
 brew install spotify
 brew install adobe-acrobrat-pro
+
+## Design
 brew install adobe-creative-cloud
+brew install --cask figma
 
 ## Utilities
 brew install grammarly
+brew install gifski
 brew install send-to-kindle
 
 ## Custom Utilities
