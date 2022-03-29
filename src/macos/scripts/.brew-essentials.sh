@@ -30,7 +30,6 @@ brew install zoom
 brew install whatsapp
 
 ## Day-to-day
-brew install microsoft-office
 brew install notion
 brew install spotify
 brew install adobe-acrobrat-pro
